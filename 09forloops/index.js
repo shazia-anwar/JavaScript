@@ -1,3 +1,4 @@
+//For-loop
 // Program to add first n natural numbers
 let sum = 0
 let n = prompt("Enter the value of n")
@@ -10,7 +11,7 @@ console.log("Sum of first " + n + " natural numbers is " + sum)
 // console.log(i)
 
 
-
+// For in loop
 /*
 let obj = {
   harry: 90,
@@ -19,11 +20,10 @@ let obj = {
   ritika: 57,
   shiv: 23
 }
-
-// For in loop
 for (let a in obj) {
   console.log("Marks of " + a + " are " + obj[a])
 }
+
 
 // For of loop
 for (let b of "Harry") {
